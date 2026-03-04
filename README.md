@@ -152,4 +152,4 @@ Electronics and Communication Engineering
 
 ## 📜 License
 
-Developed for educational and research purposes.
+Developed for educational and research purposes, feel free to send pull requests.
